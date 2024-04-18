@@ -101,7 +101,9 @@ header img {
   align-self: center;
 }
 .FAQ__question img.open {
-  content: url("/assets/images/icon-minus.svg");
+  content: url("../assets/images/icon-minus.svg");
+  width: 32;
+  height: 32;
 }
 .FAQ__question:hover {
   color: hsl(281, 83%, 54%);
